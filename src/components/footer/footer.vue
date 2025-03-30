@@ -12,9 +12,9 @@
   <style scoped>
   #footer {
     height: 100px;
-    background-color: #696666;
+    background-color: #222;
     border-top: 4px solid #5e5c5c;
-    color: #100068;
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
